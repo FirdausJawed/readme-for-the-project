@@ -1,10 +1,10 @@
 # **Sinemate**
 <p align="center"><img align="center" height="400px" width="400px"  src="81986-movie.gif" /> </p>
 
-# Description:- 
+# Description 
 In this project, I have made a movie recommendation system in which a user can choose a movie and the system will recommend 20 movies.
 
-</br>
+<br>
 
 
 # Terms
