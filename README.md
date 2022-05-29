@@ -93,9 +93,9 @@ $ git push origin master
 
 
 ### Overview of the codebase
-<a href="#"><p align="center"> <img src="images/1.jpg"/></p></a>
+<a href="#"><p align="center"> <img src="1.jpg"/></p></a>
 
-<a href="#"><p align="center"> <img src="images/2.jpg"/></p></a>
+<a href="#"><p align="center"> <img src="2.jpg"/></p></a>
 
   * For more please refer to my [Jupyter notebook file](https://drive.google.com/file/d/1C-QFOuYaa3Om97RTVNgqQg-U73CweNpy/view?usp=sharing) for detailed explanation.
 
