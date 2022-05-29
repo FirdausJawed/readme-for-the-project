@@ -14,7 +14,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/FirdausJawed/engage-project">
-    <img src="81986-movie.gif" alt="Logo" width="120" height="120">
+    <img src="images/81986-movie.gif" alt="Logo" width="120" height="120">
   </a>
 
   <h3 align="center"><b>Submission for Microsoft Engage 2022 🌟</b></h3>
@@ -93,9 +93,9 @@ $ git push origin master
 
 
 ### Overview of the codebase
-<a href="#"><p align="center"> <img src="1.jpg"/></p></a>
+<a href="#"><p align="center"> <img src="images/1.jpg"/></p></a>
 
-<a href="#"><p align="center"> <img src="2.jpg"/></p></a>
+<a href="#"><p align="center"> <img src="images/2.jpg"/></p></a>
 
   * For more please refer to my [Jupyter notebook file](https://drive.google.com/file/d/1C-QFOuYaa3Om97RTVNgqQg-U73CweNpy/view?usp=sharing) for detailed explanation.
 
@@ -135,9 +135,8 @@ Cosine similarity is a measure of similarity between two non-zero vectors of an 
 ## Demo
 Click to play
 
-[![Demo](https://user-images.githubusercontent.com/55680995/125494808-c6d0e73e-3ade-4e2e-8a07-b9da101e6068.png)](https://youtu.be/firdaus)
 
-**- [Screenshots](https://github.com/Firdaus/microsoft_teams_clone/blob/main/docs/Features%20%26%20Screenshots.pdf)**
+**- [Screenshots](https://drive.google.com/file/d/1UGLThYkWczC3nnebU1L99Ai1Ll77iZZu/view?usp=sharing)**
 
 
 ## Project References
