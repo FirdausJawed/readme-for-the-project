@@ -14,7 +14,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/FirdausJawed/engage-project">
-    <img src="images/81986-movie.gif" alt="Logo" width="120" height="120">
+    <img src="81986-movie.gif" alt="Logo" width="120" height="120">
   </a>
 
   <h3 align="center"><b>Submission for Microsoft Engage 2022 🌟</b></h3>
